@@ -8,7 +8,7 @@ Speak or send a voice note. VoiceTask AI transcribes it, understands what you me
 
 ## 🎥 Demo
 
-[![Watch the demo](docs/screenshots/dashboard.png)](YOUR_DEMO_VIDEO_LINK_HERE)
+[https://drive.google.com/file/d/1HXrKap6vAn4Gpb5gDSU1BrIigpfBHLMd/view?usp=drive_link)
 
 *Click the image above to watch the full demo — or paste your YouTube/Loom link directly here.*
 
