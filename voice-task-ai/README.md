@@ -129,7 +129,7 @@ uvicorn app.main:app --host 0.0.0.0 --port 8081
    ```
 6. Restart the server. You should see `[discord_bot] Logged in as ...`.
 
-## Google Sheets setup (optional)
+## Google Sheets setup 
 
 Uses a simple Google Apps Script Web App as a webhook — no OAuth flow or
 service account needed.
@@ -141,7 +141,7 @@ service account needed.
    GOOGLE_SHEETS_WEBHOOK_URL=https://script.google.com/macros/s/.../exec
    ```
 
-## Google Calendar setup (optional)
+## Google Calendar setup 
 
 Same approach — an Apps Script Web App that creates a calendar event.
 
@@ -154,7 +154,7 @@ Same approach — an Apps Script Web App that creates a calendar event.
    MEETING_DEFAULT_DURATION_MINUTES=60
    ```
 
-## Email broadcast setup (optional)
+## Email broadcast setup 
 
 Uses plain SMTP — works with Gmail (with an App Password), Outlook, or
 any other provider.
