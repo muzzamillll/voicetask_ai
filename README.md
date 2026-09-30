@@ -201,8 +201,8 @@ into a chat, or otherwise exposed, reset it at the source (Discord's
 Developer Portal, Google's Apps Script deployment, etc.) before using it
 in production.
 
-- **Google Calendar demo:** [https://calendar.google.com/calendar/u/0/r]
-- **Google Sheets (Orders) demo:** [https://docs.google.com/spreadsheets/d/1RdE6gEUPyFX76u4ldSGJFDswHxRqge-lQzFS7RJ9HZc/edit?gid=0#gid=0]
+- **Google Calendar demo:** [https://calendar.google.com/calendar/u/0?cid=aDQxMjQxMjMxMkBnbWFpbC5jb20]
+- **Google Sheets (Orders) demo:** [https://docs.google.com/spreadsheets/d/e/2PACX-1vQSbgqrO6wzKTtS-JHbDDdixhzDb9dWAbVh2mnrUyNURgUTMCguVx1riEfJUmwABnJ1ofKilikfGEn7/pubhtml]
 - **Sample Jitsi meeting:** https://meet.jit.si/VoiceTaskAI-Meeting-with-Ali-a7565c38
 
 
