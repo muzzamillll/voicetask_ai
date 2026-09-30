@@ -5,6 +5,8 @@ business records. A user sends a voice message (or a typed message) on
 Discord, and the backend transcribes it, works out what it means, and
 automatically creates a **Task**, **Order**, or **Payment**. Low-confidence
 notes are held for manual review instead of being guessed at.
+🎥 Demo
+[https://drive.google.com/file/d/1HXrKap6vAn4Gpb5gDSU1BrIigpfBHLMd/view?usp=drive_link)
 
 ## How it works
 
